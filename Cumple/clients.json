@@ -1,0 +1,68 @@
+[
+    {
+        "name": "SERGIO QUIROGA",
+        "email": "sergioquirogab2003@gmail.com",
+        "birthday": "07-19",
+        "photo": "../Img/Sergio.png"
+    },
+    {
+        "name": "Alejandro Baez",
+        "email": "manusa45@gmail.com",
+        "birthday": "07-19",
+        "photo": "https://example.com/alejandro_bbaez.jpg"
+    },
+    {
+        "name": "Maria Paula",
+        "email": "mapu0258@gmail.com",
+        "birthday": "12-07",
+        "photo": "https://example.com/maria_paula.jpg"
+    },
+    {
+        "name": "Sarah Catalina",
+        "email": "sacat0719@gmail.com",
+        "birthday": "07-20",
+        "photo": "https://example.com/sarah_catalina.jpg"
+    },
+    {
+        "name": "Jose Alejandro",
+        "email": "alejo1245@gmail.com",
+        "birthday": "07-22",
+        "photo": "https://example.com/jose_alejandro.jpg"
+    },
+    {
+        "name": "Maria Jose",
+        "email": "majo0981@gmail.com",
+        "birthday": "07-24",
+        "photo": "https://example.com/maria_jose.jpg"
+    },
+    {
+        "name": "Diego Andrés",
+        "email": "diegoquirogab20@gmail.com",
+        "birthday": "07-04",
+        "photo": "https://example.com/diego_andres.jpg"
+    },
+    {
+        "name": "Javier Oscar",
+        "email": "oscarin4589@gmail.com",
+        "birthday": "07-30",
+        "photo": "https://example.com/javier_oscar.jpg"
+    },
+    {
+        "name": "Manuel Santiago",
+        "email": "manusa45@gmail.com",
+        "birthday": "07-27",
+        "photo": "https://example.com/manuel_santiago.jpg"
+    },
+    {
+        "name": "Miguel Perez",
+        "email": "miguelitooo000@gmail.com",
+        "birthday": "07-22",
+        "photo": "https://example.com/miguel_perez.jpg"
+    },
+    {
+        "name": "Laura Sierra",
+        "email": "Lausierra@gmail.com",
+        "birthday": "07-07",
+        "photo": "https://example.com/laura_sierra.jpg"
+    }
+]
